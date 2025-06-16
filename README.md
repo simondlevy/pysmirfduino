@@ -20,4 +20,8 @@ Instructions:
    button).  Before accepting the pairing request,note the BlueSMiRF's
    [address](media/pairing2.png) for the next step.
 
-3. Flash the Arduino [sketch](arduino/arduino.ino) onto your MCU.
+3. Change the [address](python/bluesmirf.py) in the Python program to the
+   address you just noted.
+
+4. Flash the Arduino [sketch](arduino/arduino.ino) onto your MCU.
+
