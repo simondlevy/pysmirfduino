@@ -15,3 +15,11 @@ Instructions:
   * BlueSMiRF 3V3-5V to MCU 5V
   * BlueSMiRF RXI to MCU TX1
   * BlueSMiRF TXO to MCU RX1
+
+2. Power the MCU.  The BlueSMiRF will start blinking and
+   can immediately be paired with the Bluetooth on your
+   computer (no need to press the BlueSMiRF's pairing 
+   button).  Note the BlueSMiRF's MAC address for the
+   next step.
+
+<img src=media/pairing.jpg width=300>
