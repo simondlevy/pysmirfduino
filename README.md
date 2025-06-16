@@ -25,3 +25,9 @@ Instructions:
 
 4. Flash the Arduino [sketch](arduino/arduino.ino) onto your MCU.
 
+5. Run the Python program.  You should see the lower-case letters of the
+   alphabet scrolling by very quickly.
+
+6. Open the Serial Monitor in the Arduin IDE.  You should see the upper-case
+   letters of the alphabet scrolling by very quickly.
+
