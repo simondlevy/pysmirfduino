@@ -17,5 +17,5 @@ Instructions:
 2. Power the MCU.  The BlueSMiRF will start blinking and
    can immediately be paired with the Bluetooth on your
    computer (no need to press the BlueSMiRF's pairing 
-   button).  Note the BlueSMiRF's [address](media/pairing.png) for the
+   button).  Note the BlueSMiRF's [address](media/pairing2.png) for the
    next step.
