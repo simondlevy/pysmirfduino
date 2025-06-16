@@ -5,7 +5,7 @@ an Arduino-compatible microcontroller (MCU) using
 [BlueSMiRF v2](https://www.sparkfun.com/sparkfun-bluesmirf-v2.html)
 and a Python program running on a desktop or laptop computer.   
 
-<img src=media/wiring.jpg width=600>
+<img src=media/wiring2.jpg width=600>
 
 Instructions:
 
