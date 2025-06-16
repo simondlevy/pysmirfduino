@@ -1,5 +1,5 @@
 <img src=media/python2.png width=200>
 <img src=media/bluetooth2.png width=200>
-<img src=media/arduino.png width=200>
+<img src=media/arduino.png width=100>
 
 Fast bidirecitonal communication between Python and Arduino using Bluesmirf
