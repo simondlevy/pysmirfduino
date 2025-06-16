@@ -1,3 +1,5 @@
 <img src=media/pysmirfduino.png width=600>
 
-Fast bidirecitonal communication between Python and Arduino using Bluesmirf
+This repository provides an example of fast bidirecitonal communication between
+an Arduino using Bluesmirf and a Python program running on a desktop or laptop 
+computer.   
