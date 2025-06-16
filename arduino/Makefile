@@ -1,4 +1,4 @@
-SKETCH = teensy
+SKETCH = arduino
 
 BOARD = teensy:avr:teensy40
 

@@ -24,7 +24,7 @@ from threading import Thread
 
 ADDRESS = '64:B7:08:94:28:76'
 
-def connect_to_server(port):
+def connect_to_server(port=1):
 
     while True:
 
@@ -63,7 +63,7 @@ def threadfun(client):
 
 def main():
 
-    client = connect_to_server(2)
+    client = connect_to_server()
 
     thread = Thread(target=threadfun, args=(client, ))
     thread.daemon = True
