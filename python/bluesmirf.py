@@ -58,6 +58,16 @@ def threadfun(client):
 
     while True:
 
+        try:
+
+            msg = client.recv(1)
+
+            print(msg.decode())
+
+        except:
+
+            pass
+
         sleep(0)
 
 
