@@ -5,11 +5,9 @@ an Arduino-compatible microcontroller (MCU) using
 [BlueSMiRF v2](https://www.sparkfun.com/sparkfun-bluesmirf-v2.html)
 and a Python program running on a desktop or laptop computer.   
 
-<img src=media/wiring2.jpg width=600>
-
 Instructions:
 
-1. Connect the BlueSMiRF to your MCU:
+1. [Connect](https://github.com/simondlevy/pysmirfduino/blob/main/media/wiring2.jpg) the BlueSMiRF to your MCU:
 
   * BlueSMiRF GND to MCU GND
   * BlueSMiRF 3V3-5V to MCU 5V
@@ -19,7 +17,5 @@ Instructions:
 2. Power the MCU.  The BlueSMiRF will start blinking and
    can immediately be paired with the Bluetooth on your
    computer (no need to press the BlueSMiRF's pairing 
-   button).  Note the BlueSMiRF's MAC address for the
+   button).  Note the BlueSMiRF's [MAC address]() for the
    next step.
-
-<img src=media/pairing.png width=300>
