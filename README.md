@@ -1,6 +1,6 @@
 <img src=media/pysmirfduino.png width=600>
 
-This repository provides an example of fast bidirecitonal communication between
+This repository provides an example of fast bidirectional communication between
 an Arduino-compatible microcontroller (MCU) using
 [BlueSMiRF v2](https://www.sparkfun.com/sparkfun-bluesmirf-v2.html)
 and a Python program running on a desktop or laptop computer.   
@@ -28,6 +28,6 @@ Instructions:
 5. Run the Python program.  You should see the lower-case letters of the
    alphabet scrolling by very quickly.
 
-6. Open the Serial Monitor in the Arduin IDE.  You should see the upper-case
+6. Open the Serial Monitor in the Arduino IDE.  You should see the upper-case
    letters of the alphabet scrolling by very quickly.
 
