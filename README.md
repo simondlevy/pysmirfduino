@@ -22,4 +22,4 @@ Instructions:
    button).  Note the BlueSMiRF's MAC address for the
    next step.
 
-<img src=media/pairing.jpg width=300>
+<img src=media/pairing.png width=300>
