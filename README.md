@@ -7,7 +7,7 @@ and a Python program running on a desktop or laptop computer.
 
 Instructions:
 
-1. [Connect](https://github.com/simondlevy/pysmirfduino/blob/main/media/wiring2.jpg) the BlueSMiRF to your MCU:
+1. [Connect](media/wiring2.jpg) the BlueSMiRF to your MCU:
 
   * BlueSMiRF GND to MCU GND
   * BlueSMiRF 3V3-5V to MCU 5V
